@@ -15,9 +15,11 @@
   - aquif2-js (ETA: November/December 2024)
 - **[UNRELEASED] aquif-2L:** an even more powerful version of aquif-2, made for intensive workflows and powerful machines.
   - In development;
-  - ETA: November 2024.
+  - ETA: December 2024.
 - **[UNRELEASED] slingsh-1:** our image generation model, capable of making impressive images.
   - ETA: December 2024.
+- **[UNRELEASED] chain-o-thot:** a program that allows any AI to have a chain of thought similar to OpenAI's o1.
+  - ETA: December 2024. 
 
 ## Our team
 [aquiffoo](https://github.com/aquiffoo) - CEO, Lead Developer, Full Stack Developer.
