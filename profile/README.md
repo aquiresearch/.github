@@ -12,7 +12,7 @@
 - **aquif-2:** a cutting-edge AI model that runs locally with Ollama and is based on Qwen 2.5.
   - aquif2-go
   - aquif2-py
-  - aquif2-js (ETA: November/December 2024)
+  - aquif2-js (ETA: December 2024)
 - **[UNRELEASED] aquif-2L:** an even more powerful version of aquif-2, made for intensive workflows and powerful machines.
   - In development;
   - ETA: December 2024.
